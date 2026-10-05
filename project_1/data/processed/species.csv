@@ -1,0 +1,38 @@
+name;classification;designation;average_height;skin_colors;hair_colors;eye_colors;average_lifespan;homeworld;language;people;films;created;edited;url;species_id
+Human;mammal;sentient;180;caucasian, black, asian, hispanic;blonde, brown, black, red;brown, blue, green, hazel, grey, amber;120;9.0;Galactic Basic;[66, 67, 68, 74];[1, 2, 3, 4, 5, 6];2014-12-10T13:52:11.567000Z;2014-12-20T21:36:42.136000Z;https://swapi.dev/api/species/1/;1
+Droid;artificial;sentient;n/a;n/a;n/a;n/a;indefinite;;n/a;[2, 3, 8, 23];[1, 2, 3, 4, 5, 6];2014-12-10T15:16:16.259000Z;2014-12-20T21:36:42.139000Z;https://swapi.dev/api/species/2/;2
+Wookie;mammal;sentient;210;gray;black, brown;blue, green, yellow, brown, golden, red;400;14.0;Shyriiwook;[13, 80];[1, 2, 3, 6];2014-12-10T16:44:31.486000Z;2014-12-20T21:36:42.142000Z;https://swapi.dev/api/species/3/;3
+Rodian;sentient;reptilian;170;green, blue;n/a;black;unknown;23.0;Galatic Basic;[15];[1];2014-12-10T17:05:26.471000Z;2014-12-20T21:36:42.144000Z;https://swapi.dev/api/species/4/;4
+Hutt;gastropod;sentient;300;green, brown, tan;n/a;yellow, red;1000;24.0;Huttese;[16];[1, 3];2014-12-10T17:12:50.410000Z;2014-12-20T21:36:42.146000Z;https://swapi.dev/api/species/5/;5
+Yoda's species;mammal;sentient;66;green, yellow;brown, white;brown, green, yellow;900;28.0;Galactic basic;[20];[2, 3, 4, 5, 6];2014-12-15T12:27:22.877000Z;2014-12-20T21:36:42.148000Z;https://swapi.dev/api/species/6/;6
+Trandoshan;reptile;sentient;200;brown, green;none;yellow, orange;unknown;29.0;Dosh;[24];[2];2014-12-15T13:07:47.704000Z;2014-12-20T21:36:42.151000Z;https://swapi.dev/api/species/7/;7
+Mon Calamari;amphibian;sentient;160;red, blue, brown, magenta;none;yellow;unknown;31.0;Mon Calamarian;[27];[3];2014-12-18T11:09:52.263000Z;2014-12-20T21:36:42.153000Z;https://swapi.dev/api/species/8/;8
+Ewok;mammal;sentient;100;brown;white, brown, black;orange, brown;unknown;7.0;Ewokese;[30];[3];2014-12-18T11:22:00.285000Z;2014-12-20T21:36:42.155000Z;https://swapi.dev/api/species/9/;9
+Sullustan;mammal;sentient;180;pale;none;black;unknown;33.0;Sullutese;[31];[3];2014-12-18T11:26:20.103000Z;2014-12-20T21:36:42.157000Z;https://swapi.dev/api/species/10/;10
+Neimodian;unknown;sentient;180;grey, green;none;red, pink;unknown;18.0;Neimoidia;[33];[4];2014-12-19T17:07:31.319000Z;2014-12-20T21:36:42.160000Z;https://swapi.dev/api/species/11/;11
+Gungan;amphibian;sentient;190;brown, green;none;orange;unknown;8.0;Gungan basic;[36, 37, 38];[4, 5];2014-12-19T17:30:37.341000Z;2014-12-20T21:36:42.163000Z;https://swapi.dev/api/species/12/;12
+Toydarian;mammal;sentient;120;blue, green, grey;none;yellow;91;34.0;Toydarian;[40];[4, 5];2014-12-19T17:48:56.893000Z;2014-12-20T21:36:42.165000Z;https://swapi.dev/api/species/13/;13
+Dug;mammal;sentient;100;brown, purple, grey, red;none;yellow, blue;unknown;35.0;Dugese;[41];[4];2014-12-19T17:53:11.214000Z;2014-12-20T21:36:42.167000Z;https://swapi.dev/api/species/14/;14
+Twi'lek;mammals;sentient;200;orange, yellow, blue, green, pink, purple, tan;none;blue, brown, orange, pink;unknown;37.0;Twi'leki;[45, 46];[3, 4, 5, 6];2014-12-20T09:48:02.406000Z;2014-12-20T21:36:42.169000Z;https://swapi.dev/api/species/15/;15
+Aleena;reptile;sentient;80;blue, gray;none;unknown;79;38.0;Aleena;[47];[4];2014-12-20T09:53:16.481000Z;2014-12-20T21:36:42.171000Z;https://swapi.dev/api/species/16/;16
+Vulptereen;unknown;sentient;100;grey;none;yellow;unknown;39.0;vulpterish;[48];[4];2014-12-20T09:57:33.128000Z;2014-12-20T21:36:42.173000Z;https://swapi.dev/api/species/17/;17
+Xexto;unknown;sentient;125;grey, yellow, purple;none;black;unknown;40.0;Xextese;[49];[4];2014-12-20T10:02:13.915000Z;2014-12-20T21:36:42.175000Z;https://swapi.dev/api/species/18/;18
+Toong;unknown;sentient;200;grey, green, yellow;none;orange;unknown;41.0;Tundan;[50];[4, 6];2014-12-20T10:08:36.795000Z;2014-12-20T21:36:42.177000Z;https://swapi.dev/api/species/19/;19
+Cerean;mammal;sentient;200;pale pink;red, blond, black, white;hazel;unknown;43.0;Cerean;[52];[4, 6];2014-12-20T10:15:33.765000Z;2014-12-20T21:36:42.179000Z;https://swapi.dev/api/species/20/;20
+Nautolan;amphibian;sentient;180;green, blue, brown, red;none;black;70;44.0;Nautila;[53];[4];2014-12-20T10:18:58.610000Z;2014-12-20T21:36:42.181000Z;https://swapi.dev/api/species/21/;21
+Zabrak;mammal;sentient;180;pale, brown, red, orange, yellow;black;brown, orange;unknown;45.0;Zabraki;[44, 54];[4];2014-12-20T10:26:59.894000Z;2014-12-20T21:36:42.183000Z;https://swapi.dev/api/species/22/;22
+Tholothian;mammal;sentient;unknown;dark;unknown;blue, indigo;unknown;46.0;unknown;[55];[4, 6];2014-12-20T10:29:13.798000Z;2014-12-20T21:36:42.186000Z;https://swapi.dev/api/species/23/;23
+Iktotchi;unknown;sentient;180;pink;none;orange;unknown;47.0;Iktotchese;[56];[4, 6];2014-12-20T10:32:13.046000Z;2014-12-20T21:36:42.188000Z;https://swapi.dev/api/species/24/;24
+Quermian;mammal;sentient;240;white;none;yellow;86;48.0;Quermian;[57];[4, 6];2014-12-20T10:34:50.827000Z;2014-12-20T21:36:42.189000Z;https://swapi.dev/api/species/25/;25
+Kel Dor;unknown;sentient;180;peach, orange, red;none;black, silver;70;49.0;Kel Dor;[58];[4, 6];2014-12-20T10:49:21.692000Z;2014-12-20T21:36:42.191000Z;https://swapi.dev/api/species/26/;26
+Chagrian;amphibian;sentient;190;blue;none;blue;unknown;50.0;Chagria;[59];[4, 6];2014-12-20T10:53:28.795000Z;2014-12-20T21:36:42.193000Z;https://swapi.dev/api/species/27/;27
+Geonosian;insectoid;sentient;178;green, brown;none;green, hazel;unknown;11.0;Geonosian;[63];[5, 6];2014-12-20T16:40:45.618000Z;2014-12-20T21:36:42.195000Z;https://swapi.dev/api/species/28/;28
+Mirialan;mammal;sentient;180;yellow, green;black, brown;blue, green, red, yellow, brown, orange;unknown;51.0;Mirialan;[64, 65];[5, 6];2014-12-20T16:46:48.290000Z;2014-12-20T21:36:42.197000Z;https://swapi.dev/api/species/29/;29
+Clawdite;reptilian;sentient;180;green, yellow;none;yellow;70;54.0;Clawdite;[70];[5, 6];2014-12-20T16:57:46.171000Z;2014-12-20T21:36:42.199000Z;https://swapi.dev/api/species/30/;30
+Besalisk;amphibian;sentient;178;brown;none;yellow;75;55.0;besalisk;[71];[5];2014-12-20T17:28:28.821000Z;2014-12-20T21:36:42.200000Z;https://swapi.dev/api/species/31/;31
+Kaminoan;amphibian;sentient;220;grey, blue;none;black;80;10.0;Kaminoan;[72, 73];[5];2014-12-20T17:31:24.838000Z;2014-12-20T21:36:42.202000Z;https://swapi.dev/api/species/32/;32
+Skakoan;mammal;sentient;unknown;grey, green;none;unknown;unknown;56.0;Skakoan;[76];[5, 6];2014-12-20T17:53:54.515000Z;2014-12-20T21:36:42.204000Z;https://swapi.dev/api/species/33/;33
+Muun;mammal;sentient;190;grey, white;none;black;100;57.0;Muun;[77];[5, 6];2014-12-20T17:58:19.088000Z;2014-12-20T21:36:42.207000Z;https://swapi.dev/api/species/34/;34
+Togruta;mammal;sentient;180;red, white, orange, yellow, green, blue;none;red, orange, yellow, green, blue, black;94;58.0;Togruti;[78];[5, 6];2014-12-20T18:44:03.246000Z;2014-12-20T21:36:42.209000Z;https://swapi.dev/api/species/35/;35
+Kaleesh;reptile;sentient;170;brown, orange, tan;none;yellow;80;59.0;Kaleesh;[79];[6];2014-12-20T19:45:42.537000Z;2014-12-20T21:36:42.210000Z;https://swapi.dev/api/species/36/;36
+Pau'an;mammal;sentient;190;grey;none;black;700;12.0;Utapese;[83];[6];2014-12-20T20:35:06.777000Z;2014-12-20T21:36:42.212000Z;https://swapi.dev/api/species/37/;37
